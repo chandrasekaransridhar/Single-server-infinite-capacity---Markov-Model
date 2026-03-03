@@ -27,7 +27,7 @@ If the arrival of materials follow poisson process with mean interval time 12 se
 **_Name : SRIDHAR C<br>
  Reg No : 212225040425 <br>
  Slot Name : T1-I5<br>
- [colab link](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=mAwTVHNcBAlc&line=24&uniqifier=1)_**
+ [colab link](https://colab.research.google.com/drive/1I09RnTLiEXcuVkv24NomCccpRD65iaa0#scrollTo=41z7Q6lUODfx&line=24&uniqifier=1)_**
 
 
 ```py
@@ -57,7 +57,7 @@ else:
 print("----------------------------------------")
 ```
 # Output
-<img width="705" height="225" alt="image" src="https://github.com/user-attachments/assets/fb06831d-2f9f-460f-b4c2-3a5f210511ec" />
+<img width="652" height="222" alt="Screenshot 2026-03-03 145859 - Copy" src="https://github.com/user-attachments/assets/0482be25-403e-472b-8fe0-a628dde75f46" />
 
 
 # Result
