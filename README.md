@@ -1,27 +1,21 @@
-# Experiment-4-Single-Server-with-infinite-Capacity-Queueing-Model
-# Aim
-To find
+# Single server with infinite capacity (M/M/1):(oo/FIFO)
+## Aim :
+To find (a) average number of materials in the system (b) average number of materials in the conveyor (c) waiting time of each material in the system (d) waiting time of each material in the conveyor, if the arrival  of materials follow poisson process with the mean interval time 12 seconds, serivice time of lathe machine follows exponential distribution with mean serice time 1 second and average service time of robot is 7seconds.
 
-(a)	Average number of materials in the system 
+## Software required :
+Visual components and Python
 
-(b)	Average number of materials in the conveyor
+## Theory:
+Queuing are the most frequently encountered problems in everyday life. For example, queue at a cafeteria, library, bank, etc. Common to all of these cases are the arrivals of objects requiring service and the attendant delays when the service mechanism is busy. Waiting lines cannot be eliminated completely, but suitable techniques can be used to reduce the waiting time of an object in the system. A long waiting line may result in loss of customers to an organization. Waiting time can be reduced by providing additional service facilities, but it may result in an increase in the idle time of the service mechanism.
 
-(c)	Waiting time of each material in the system
+![image](1.png)
 
-(d)	Waiting time of each material in the conveyor
+This is a queuing model in which the arrival is Marcovian and departure distribution is also Marcovian,number of server is one and size of the queue is also Marcovian,no.of server is one and size of the queue is infinite and service discipline is 1st come 1st serve(FCFS) and the calling source is also finite.
 
+## Procedure :
 
+![imAGE](2.png)
 
-If the arrival of materials follow poisson process with mean interval time 12 seconds, service time of lathe machine follows exponential distribution with mean service time 1 second and average service time of robot is 7 seconds.
-# Software Required:  Visual Components and Python
-# Theory:
-1.	The model has one server and unlimited queue space, so any number of customers can wait without blocking new arrivals.
-2.	Arrivals usually follow a Poisson process, and service times come from a chosen probability distribution, often exponential in the classic M/M/1 case.
-3.	 The system reaches a stable steady state only when the service rate exceeds the arrival rate; otherwise, the queue grows without bound.
-4.	 Key performance measures—like average waiting time, average queue length, and server utilization—emerge from the balance between these two rates.
-5.	 Despite its simplicity, the model serves as a foundational benchmark for analysing more intricate queueing systems and real-world service operations.
-# Procedure: 
-<img width="847" height="255" alt="image" src="https://github.com/user-attachments/assets/f5b78f76-ddef-4bcd-afee-044fb0babdc8" />
 
 # Program
 **_Name : SRIDHAR C<br>
