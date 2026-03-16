@@ -50,9 +50,9 @@ else:
     print("Warning! Objects overflow will happen in the conveyer") 
 print("----------------------------------------")
 ```
-# Output
+# Output:
 <img width="652" height="222" alt="Screenshot 2026-03-03 145859 - Copy" src="https://github.com/user-attachments/assets/0482be25-403e-472b-8fe0-a628dde75f46" />
 
 
-# Result
-       The average number of material in the system and in the conveyor and waiting time are successfully found.
+# Result:
+The average number of material in the system and in the conveyor and waiting time are successfully found.
